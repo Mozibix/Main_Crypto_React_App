@@ -9,7 +9,7 @@ const NavComp = () => {
       <div className="navigation">
         <div className="logo">
           <Link to="/" className="n">
-            Spencer
+            Binance
           </Link>
         </div>
 

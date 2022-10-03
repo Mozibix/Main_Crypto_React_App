@@ -55,10 +55,3 @@ const Group6 = (props) => {
 
 export default Team;
 
-// data-aos="zoom-in"
-// data-aos-easing="linear"
-// data-aos-anchor-placement="top-buttom"
-// data-aos-delay="9000"
-// data-aos-offset="200"
-// data-aos-mirror="false"
-// data-aos-once="false"
